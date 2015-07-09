@@ -3,6 +3,9 @@ Hi,
 This is a database of SHA256 and SHA512 hashes of Apple firmware updates.
 Extracted from Apple firmware updates and OS updates.
 
+Apple firmware updates website:
+https://support.apple.com/en-us/HT201518
+
 There are no official signatures (yet) available from Apple.
 This would be a very useful thing for Apple to make available.
 
